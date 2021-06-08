@@ -1,5 +1,5 @@
 git
-name: Java CI
+name: maven -publish.yml
 
 on: [push]
     
