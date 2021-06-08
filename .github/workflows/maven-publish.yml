@@ -1,5 +1,4 @@
-git
-name: maven -publish.yml
+name: maven-publish.yml
 
 on: [push]
     
